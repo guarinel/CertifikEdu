@@ -8,7 +8,7 @@
 	     "@context": "https://w3id.org/openbadges/v2",
 	     "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/assertion.json",
 	     "type": "Assertion",
-        "recipient": {
+         "recipient": {
             "type": "email",
             "hashed": true,
             "salt": "deadsea",
