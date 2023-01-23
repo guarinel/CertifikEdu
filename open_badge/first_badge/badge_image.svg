@@ -42,4 +42,3 @@
 
 </svg>
 
-bin/oven --in badgeimage.png --out bakedbadge.png '{"uid": "123456789abcdefghi987654321jklmnopqr", "recipient": ...}'
