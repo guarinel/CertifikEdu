@@ -1,0 +1,11 @@
+{
+"@context": "https://w3id.org/openbadges/v2",
+"type": "BadgeClass",
+"id": "https://example.org/badges/5",
+"name": "3-D Printmaster",
+"description": "This badge is awarded …",
+"image": "https://example.org/badges/5/image",
+"criteria": {
+    "narrative": "Students are tested on …" 
+            }
+}

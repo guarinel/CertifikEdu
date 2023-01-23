@@ -1,0 +1,13 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "https://example.org/beths-robotics-badge.json",
+    "recipient": {
+        "type": "email",
+        "identity": "certifikedu@example.org"
+      },
+      "issuedOn": "2016-12-31T23:59:59+00:00",
+      "verification": {
+        "type": "hosted"
+      }
+}

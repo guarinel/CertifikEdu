@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Profile",
+    "id": "https://example.org/profile/5",
+    "name": "Example Maker Society",
+    "url": "https://example.org",
+    "email": "contact@example.org",
+    "verification": {
+       "allowedOrigins": "example.org"
+    }
+  }
+  
