@@ -1,7 +1,7 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/assertion.json",
+    "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/assertion.json",
     "recipient": {
         "type": "email",
         "identity": "certifikedu@example.org"

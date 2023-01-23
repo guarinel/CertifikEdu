@@ -1,7 +1,7 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Profile",
-    "id": "https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/issuer.json",
+    "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/issuer.json",
     "name": "Example Maker Society",
     "url": "https://example.org",
     "email": "contact@example.org",
