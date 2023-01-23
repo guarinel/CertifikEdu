@@ -24,16 +24,6 @@
 	       "image": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/badge.png",
 	       "criteria": {
 	         "narrative": "Students are tested on …"
-	       },
-	       "issuer": {
-	         "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/issuer.json",
-	         "type": "Profile",
-	         "name": "Example Maker Society",
-	         "url": "https://example.org",
-	         "email": "contact@example.org",
-	         "verification": {
-	            "allowedOrigins": "example.org"
-	         }
 	       }
 	     }
 	   }
