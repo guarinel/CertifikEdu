@@ -6,6 +6,7 @@
         "type": "email",
         "identity": "certifikedu@example.org"
       },
+      "badge": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/badge_class.json",
       "issuedOn": "2016-12-31T23:59:59+00:00",
       "verification": {
         "type": "hosted"
