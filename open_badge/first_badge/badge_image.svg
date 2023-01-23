@@ -8,14 +8,15 @@
 	     "@context": "https://w3id.org/openbadges/v2",
 	     "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/assertion.json",
 	     "type": "Assertion",
-	     "recipient": {
-	       "type": "email",
-	       "identity": "alice@example.org"
-	     },
+        "recipient": {
+            "type": "email",
+            "hashed": true,
+            "salt": "deadsea",
+            "identity": "sha256$c7ef86405ba71b85acd8e2e95166c4b111448089f2e1599f42fe1bba46e865c5"
+        },
 	     "issuedOn": "2016-12-31T23:59:59+00:00",
 	     "verification": {
-	       "type": "hosted",
-           "url":"https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/badge_class.json"
+	       "type": "hosted"
 	     },
 	     "badge": {
 	       "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/badge_class.json",
