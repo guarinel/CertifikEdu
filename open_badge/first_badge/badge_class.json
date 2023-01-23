@@ -1,10 +1,10 @@
 {
 "@context": "https://w3id.org/openbadges/v2",
 "type": "BadgeClass",
-"id": "https://example.org/badges/5",
+"id": "https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/badge_class.json",
 "name": "3-D Printmaster",
 "description": "This badge is awarded …",
-"image": "https://example.org/badges/5/image",
+"image": "https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/badge.png",
 "criteria": {
     "narrative": "Students are tested on …" 
             }

@@ -2,11 +2,11 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:openbadges="http://openbadges.org"
      viewBox="0 0 512 512">
-  <openbadges:assertion verify="https://example.org/assertions/123">
+  <openbadges:assertion verify="https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/assertion.json">
     <![CDATA[
 	   {
 	     "@context": "https://w3id.org/openbadges/v2",
-	     "id": "https://example.org/assertions/123",
+	     "id": "https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/assertion.json",
 	     "type": "Assertion",
 	     "recipient": {
 	       "type": "email",
@@ -17,16 +17,16 @@
 	       "type": "hosted"
 	     },
 	     "badge": {
-	       "id": "https://example.org/badges/5",
+	       "id": "https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/badge_class.json",
 		   "type": "BadgeClass",
 	       "name": "3-D Printmaster",
 	       "description": "This badge is awarded …",
-	       "image": "https://example.org/badges/5/image",
+	       "image": "https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/badge.png",
 	       "criteria": {
 	         "narrative": "Students are tested on …"
 	       },
 	       "issuer": {
-	         "id": "https://example.org/issuer",
+	         "id": "https://github.com/guarinel/CertifikEdu/blob/dev/open_badge/first_badge/issuer.json",
 	         "type": "Profile",
 	         "name": "Example Maker Society",
 	         "url": "https://example.org",
@@ -41,3 +41,5 @@
   </openbadges:assertion>
 
 </svg>
+
+bin/oven --in badgeimage.png --out bakedbadge.png '{"uid": "123456789abcdefghi987654321jklmnopqr", "recipient": ...}'
