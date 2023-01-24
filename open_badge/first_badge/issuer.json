@@ -4,9 +4,6 @@
     "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/issuer.json",
     "name": "Example Maker Society",
     "url": "https://example.org",
-    "email": "contact@example.org",
-    "verification": {
-       "allowedOrigins": "https://raw.githubusercontent.com"
-    }
+    "email": "contact@example.org"
   }
   
