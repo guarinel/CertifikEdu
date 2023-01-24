@@ -6,7 +6,7 @@
     "url": "https://example.org",
     "email": "contact@example.org",
     "verification": {
-       "allowedOrigins": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/assertion.json"
+       "allowedOrigins": "https://raw.githubusercontent.com"
     }
   }
   
