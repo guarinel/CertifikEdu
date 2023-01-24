@@ -30,9 +30,12 @@
 	       "issuer": {
 	         "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/issuer.json",
 	         "type": "Profile",
-	         "name": "Example Makkgker Society",
+	         "name": "Example Maker Society",
 	         "url": "https://example.org",
-	         "email": "contact@example.org"
+	         "email": "contact@example.org",
+	         "verification": {
+	            "startsWith": ""https://raw.githubusercontent.com/guarinel/CertifikEdu"
+	         }
 	       }
 	     }
 	   }

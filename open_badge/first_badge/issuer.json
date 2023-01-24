@@ -2,8 +2,11 @@
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Profile",
     "id": "https://raw.githubusercontent.com/guarinel/CertifikEdu/dev/open_badge/first_badge/issuer.json",
-    "name": "Example Makkgker Society",
+    "name": "Example Maker Society",
     "url": "https://example.org",
-    "email": "contact@example.org"
+    "email": "contact@example.org",
+    "verification": {
+        "startsWith": "https://raw.githubusercontent.com/guarinel/CertifikEdu"
+    }
   }
   
