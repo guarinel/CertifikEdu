@@ -35,7 +35,7 @@
 	         "url": "https://example.org",
 	         "email": "contact@example.org",
 	         "verification": {
-	            "allowedOrigins": "example.org"
+	            "allowedOrigins": "https://raw.githubusercontent.com"
 	         }
 	       }
 	     }
