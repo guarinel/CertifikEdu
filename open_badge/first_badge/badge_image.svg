@@ -34,7 +34,7 @@
 	         "url": "https://example.org",
 	         "email": "contact@example.org",
 	         "verification": {
-	            "startsWith": ""https://raw.githubusercontent.com/guarinel/CertifikEdu"
+	            "startsWith": "https://raw.githubusercontent.com/guarinel/CertifikEdu"
 	         }
 	       }
 	     }
